@@ -1,4 +1,4 @@
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/istockphoto-1017296544-612x612.jpg)
 
 ## Mark's AI Blog
 
