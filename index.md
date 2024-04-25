@@ -2,4 +2,4 @@
 
 ## Mark's AI Blog
 
-Hello, this is my AI blog yay
+Hello, this is my AI blog (yay).
