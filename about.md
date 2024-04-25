@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hi! I am Mark Kandathiparambil, a fourth year student at the University of Queensland studying Electrical Engineering. This blog documents the start of my journey into the world of AI.
 
